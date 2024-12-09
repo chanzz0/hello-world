@@ -24,6 +24,6 @@ pdflatex --version
 # Typst
 typst --version
 
-echo "================"
-echo "Test succuss!"
-echo "================"
+echo "====================="
+echo "=== Test succuss! ==="
+echo "====================="
