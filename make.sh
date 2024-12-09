@@ -34,8 +34,8 @@ pdflatex helloworld.tex
 echo "====== Typst ======"
 typst compile helloworld.typ
 
-echo "================"
-echo "Build succuss!!!"
-echo "================"
+echo "===================="
+echo "All build succuss!!!"
+echo "===================="
 
 
