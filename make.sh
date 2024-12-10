@@ -3,11 +3,11 @@ cd src
 
 # C
 echo "====== C ======"
-gcc -o outfile helloworld.c && ./outfile
+gcc helloworld.c -o outfile && ./outfile
 
 # C++
 echo "====== C++ ======"
-g++ -o outfile helloworld.cpp && ./outfile
+g++ helloworld.cpp -o outfile && ./outfile
 
 # Java
 echo "====== Java ======"
@@ -19,7 +19,7 @@ python3 helloworld.py
 
 # Rust
 echo "====== Rust ======"
-rustc -o outfile helloworld.rs && ./outfile
+rustc helloworld.rs -o outfile && ./outfile
 
 # Shell (Bash, Zsh)
 echo "====== Shell ======"
