@@ -29,6 +29,10 @@ perl helloworld.pl
 echo "====== Python3 ======"
 python3 helloworld.py
 
+# Ruby
+echo "====== Ruby ======"
+ruby helloworld.rb
+
 # Rust
 echo "====== Rust ======"
 rustc helloworld.rs -o outfile && ./outfile

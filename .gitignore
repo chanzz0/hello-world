@@ -7,6 +7,7 @@ src/*
 !src/helloworld.lua
 !src/helloworld.pl
 !src/helloworld.py
+!src/helloworld.rb
 !src/helloworld.rs
 !src/helloworld.sh
 !src/helloworld.tex

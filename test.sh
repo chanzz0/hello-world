@@ -20,6 +20,9 @@ perl -v
 # Python3
 python3 --version
 
+# Ruby
+ruby -v
+
 # Rust
 rustc --version
 
