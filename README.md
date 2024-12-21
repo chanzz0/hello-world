@@ -1,6 +1,6 @@
-# hello world
+# Hello world!
 
-Use different programming languages to output hello world
+Use different programming languages to output "Hello world!". Just for fun.
 
 ## Build
 
